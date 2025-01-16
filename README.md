@@ -1,4 +1,4 @@
-# Car_Rentals_DB
+# Car_Rentals_DBMS
 
 ## Project Overview
 Car rentals offer a convenient solution for customers requiring temporary transportation. This project presents a comprehensive Database Management System (DBMS) for managing a car rental business. The system enables customers to rent vehicles by creating an account, selecting from a variety of fleet options, and choosing a rental period. Payment options include full payment or a minimum fee, ensuring flexibility for customers. Additionally, the system tracks essential information such as vehicle usage, transactions, and customer attributes to maintain operational efficiency and transparency.
